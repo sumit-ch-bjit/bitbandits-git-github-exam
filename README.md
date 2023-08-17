@@ -11,6 +11,7 @@ and discover local restaurants, cafes, and eateries. Whether you're a food enthu
 for new culinary experiences or a traveller seeking the best dining spots in town, Local
 Dining Guide has got you covered
 
+# usage
 # Table of Contents
 
 - Introduction
@@ -35,8 +36,6 @@ software solution strives to bridge the gap between diners and local eateries.
 #### License
 *This project is licensed under the* [MIT License](https://opensource.org/license/mit/)
 
-<<<<<<< HEAD
-
 ## Contact Information
 *For any inquiries or support, please email us at support@localdiningguide.com or visit our 
 website [http://www.localdiningguide.com](http://www.localdiningguide.com)*
@@ -50,7 +49,31 @@ We hope you enjoy using Local Dining Guide to discover fantastic dining options 
 area! Bon appétit! :fork_and_knife:
 Dining Guide has got you covered.
 
-=======
+
+### Usage
+
+- **Search for Restaurants:** Utilize the search functionality to discover dining options based on your preferences.
+
+- **Explore Restaurant Profiles:** Click on a restaurant to access its comprehensive profile, showcasing menu items and reviews.
+
+- **Read and Write Reviews:** Share your dining experiences by leaving reviews and ratings for the restaurants you visit.
+
+- **Save Favorites:** Create an account to bookmark your preferred restaurants and receive tailored recommendations.
+
+- **Get Directions:** Utilize the integrated map feature to obtain directions to the selected restaurant.
+
+
+Thank you to the following contributors who have helped to improve this project:
+
+| Name        | Email                | Phone          |
+|-------------|----------------------|----------------|
+| Contributor 1 | Email address 1 | Phone Number 1 |
+| Contributor 2 | Email address 2 | Phone Number 2 |
+| Contributor 3 | Email address 3 | Phone Number 3 |
+| Contributor 4 | Email address 4 | Phone Number 4 |
+| Contributor 5 | Email address 5 | Phone Number 5 |
+
+
 ### **Prerequisites**
 
 **Web Browser:** Ensure you have a modern web browser installed to access the Local Dining
@@ -71,4 +94,16 @@ images.
 **3. Launch the Application:** Open the index.html file in your web browser.
 
 `open index.html`
->>>>>>> 204143f268d3dbe77ad9ee717c45dd3235359ee3
+
+
+## Contact Information
+*For any inquiries or support, please email us at support@localdiningguide.com or visit our 
+website [http://www.localdiningguide.com](http://www.localdiningguide.com)*
+
+### Follow us on social media:
+**Twitter**: @localdiningguide
+**Facebook**: LocalDiningGuide
+**Instagram**: @localdiningguide
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your 
+area! Bon appétit! :fork_and_knife:
