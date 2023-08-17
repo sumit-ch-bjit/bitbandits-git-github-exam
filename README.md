@@ -1,6 +1,8 @@
-# Local Dining Guide
+#Local Dining Guide
+
 
 Web Based Dining Information Solution
+
 
 Welcome to the Local Dining Guide project! This web-based software solution is designed to
 provide users with comprehensive dining information, making it easy for them to explore
