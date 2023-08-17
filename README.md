@@ -36,6 +36,19 @@ software solution strives to bridge the gap between diners and local eateries.
 #### License
 *This project is licensed under the* [MIT License](https://opensource.org/license/mit/)
 
+## Contact Information
+*For any inquiries or support, please email us at support@localdiningguide.com or visit our 
+website [http://www.localdiningguide.com](http://www.localdiningguide.com)*
+
+### Follow us on social media:
+**Twitter**: @localdiningguide
+**Facebook**: LocalDiningGuide
+**Instagram**: @localdiningguide
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your 
+area! Bon appétit! :fork_and_knife:
+Dining Guide has got you covered.
+
 
 ### Usage
 
@@ -81,6 +94,7 @@ images.
 **3. Launch the Application:** Open the index.html file in your web browser.
 
 `open index.html`
+
 
 ## Contact Information
 *For any inquiries or support, please email us at support@localdiningguide.com or visit our 
