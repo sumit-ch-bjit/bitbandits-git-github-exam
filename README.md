@@ -73,8 +73,6 @@ selected restaurant.
 • **User Accounts:** Create accounts to save favourite restaurants, track dining history, 
 and receive personalized recommendations.
 
-////// Dining Guide has got you covered.
-
 ## Getting Started
 ### **Prerequisites**
 
