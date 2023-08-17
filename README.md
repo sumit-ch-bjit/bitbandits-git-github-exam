@@ -1,3 +1,14 @@
+# Local Dining Guide
+
+Web Based Dining Information Solution
+
+Welcome to the Local Dining Guide project! This web-based software solution is designed to
+provide users with comprehensive dining information, making it easy for them to explore
+and discover local restaurants, cafes, and eateries. Whether you're a food enthusiast looking
+for new culinary experiences or a traveller seeking the best dining spots in town, Local
+Dining Guide has got you covered
+
+
 ### Usage
 
 - **Search for Restaurants:** Utilize the search functionality to discover dining options based on your preferences.
@@ -20,3 +31,4 @@ Thank you to the following contributors who have helped to improve this project:
 | Contributor 3 | Email address 3 | Phone Number 3 |
 | Contributor 4 | Email address 4 | Phone Number 4 |
 | Contributor 5 | Email address 5 | Phone Number 5 |
+
