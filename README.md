@@ -1,6 +1,3 @@
-# bitbandits-git-github-exam
-git and github practice exam
-
 ### Usage
 
 - **Search for Restaurants:** Utilize the search functionality to discover dining options based on your preferences.
