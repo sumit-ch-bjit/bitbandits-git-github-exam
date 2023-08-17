@@ -1,7 +1,8 @@
-#Local Dining Guide
+## Getting Started
 
+# Local Dining Guide
 
-Web Based Dining Information Solution
+*Follow these steps to get Local Dining Guide up and running on your local machine.*
 
 
 Welcome to the Local Dining Guide project! This web-based software solution is designed to
