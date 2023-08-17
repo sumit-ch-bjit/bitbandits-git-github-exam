@@ -1,6 +1,5 @@
 ## Getting Started
 
-
 *Follow these steps to get Local Dining Guide up and running on your local machine.*
 
 ### **Prerequisites**
