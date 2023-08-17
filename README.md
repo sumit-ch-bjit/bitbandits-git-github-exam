@@ -35,7 +35,6 @@ software solution strives to bridge the gap between diners and local eateries.
 #### License
 *This project is licensed under the* [MIT License](https://opensource.org/license/mit/)
 
-<<<<<<< HEAD
 
 ### Usage
 
@@ -61,9 +60,6 @@ Thank you to the following contributors who have helped to improve this project:
 | Contributor 5 | Email address 5 | Phone Number 5 |
 
 
-=======
-<<<<<<< HEAD
-
 ## Contact Information
 *For any inquiries or support, please email us at support@localdiningguide.com or visit our 
 website [http://www.localdiningguide.com](http://www.localdiningguide.com)*
@@ -77,8 +73,6 @@ We hope you enjoy using Local Dining Guide to discover fantastic dining options 
 area! Bon appétit! :fork_and_knife:
 Dining Guide has got you covered.
 
-=======
->>>>>>> 104f96385c8c07a519e50734b21540074f80861a
 ### **Prerequisites**
 
 **Web Browser:** Ensure you have a modern web browser installed to access the Local Dining
@@ -99,8 +93,3 @@ images.
 **3. Launch the Application:** Open the index.html file in your web browser.
 
 `open index.html`
-<<<<<<< HEAD
-
-=======
->>>>>>> 204143f268d3dbe77ad9ee717c45dd3235359ee3
->>>>>>> 104f96385c8c07a519e50734b21540074f80861a
